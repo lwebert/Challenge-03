@@ -1,0 +1,7 @@
+{
+    "prettier.bracketSpacing": true,
+    "prettier.bracketSameLine": true,
+    "prettier.insertPragma": false,
+    "prettier.proseWrap": "preserve",
+    "prettier.useTabs": true
+}
